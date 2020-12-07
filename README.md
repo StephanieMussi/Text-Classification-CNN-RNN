@@ -137,8 +137,7 @@ After replacing the GRU layer with a Vanilla RNN layer, the accuracies are recor
 |:-:|:-:|
 |10.79%%|11.29%|  
 
-    
-
+The graphs are plotted and shown below:  
 <img src = "https://github.com/StephanieMussi/Text_Classification_CNN_RNN/blob/main/Figures/CharRNNVLoss.png" width = 300 height = 200>
 <img src = "https://github.com/StephanieMussi/Text_Classification_CNN_RNN/blob/main/Figures/CharRNNVAcc.png" width = 300 height = 200>     
 
@@ -164,8 +163,7 @@ The train and test accuracy are:
 |:-:|:-:|
 |90.07%|70.29%|  
   
-  
-haha
+The graphs are as below:  
 <img src = "https://github.com/StephanieMussi/Text_Classification_CNN_RNN/blob/main/Figures/CharRNNLLoss.png" width = 300 height = 200>
 <img src = "https://github.com/StephanieMussi/Text_Classification_CNN_RNN/blob/main/Figures/CharRNNLAcc.png" width = 300 height = 200>   
 

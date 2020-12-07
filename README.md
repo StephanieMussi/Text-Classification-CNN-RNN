@@ -12,9 +12,9 @@ The architecture of the model is as below:
 
 ## Character RNN Classifier
 The architecture of the model is as below:  
-<img src = "https://github.com/StephanieMussi/Text_Classification_CNN_RNN/blob/main/Figures/CharCNN.png" width = 150 height = 100>  
+<img src = "https://github.com/StephanieMussi/Text_Classification_CNN_RNN/blob/main/Figures/CharRNN.png" width = 150 height = 100>  
 
 ## Word RNN Classifier
 The architecture of the model is as below:  
-<img src = "https://github.com/StephanieMussi/Text_Classification_CNN_RNN/blob/main/Figures/CharCNN.png" width = 250 height = 80>  
+<img src = "https://github.com/StephanieMussi/Text_Classification_CNN_RNN/blob/main/Figures/WordRNN.png" width = 250 height = 80>  
 

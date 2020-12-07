@@ -165,7 +165,7 @@ The train and test accuracy are:
 |90.07%|70.29%|  
   
   
-
+haha
 <img src = "https://github.com/StephanieMussi/Text_Classification_CNN_RNN/blob/main/Figures/CharRNNLLoss.png" width = 300 height = 200>
 <img src = "https://github.com/StephanieMussi/Text_Classification_CNN_RNN/blob/main/Figures/CharRNNLAcc.png" width = 300 height = 200>   
 
